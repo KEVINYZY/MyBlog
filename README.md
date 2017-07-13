@@ -9,11 +9,7 @@
   部分异步请求的页面使用jQuery进行ajax请求，Vue.js进行数据渲染，Bootstrap框架搭建前端页面。 
   其中编写文章使用的是自制的一个简易markdown编辑器，用marked.js进行markdown语法解析，然后用highlight.js进行语法高亮。
 ## **各模块展示**
-### **首页**
-![这里写图片描述](http://img.blog.csdn.net/20170323192237900?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-### **我的博客**
-![这里写图片描述](http://img.blog.csdn.net/20170323192311229?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-![这里写图片描述](http://img.blog.csdn.net/20170323192329161?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 ### **个人中心**
  ![这里写图片描述](http://img.blog.csdn.net/20170323192356370?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ### **博客管理**
