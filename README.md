@@ -20,6 +20,8 @@
  ![这里写图片描述](http://img.blog.csdn.net/20170323192407756?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ### **文章编写**
 ![这里写图片描述](http://img.blog.csdn.net/20170323192420714?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+### **搜索结果**
+![这里写图片描述](http://img.blog.csdn.net/20170713080423239?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmljb3J1aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 # **后记**
 学了框架之后花了三周把这个东西做了出来，总结出了以下一些东西：
 1. 需求分析很重要。在项目还没开始的时候一定要做个文档仔细分析清楚各个模块有哪些功能，这些功能有哪些实现方法，各种实现方法有哪些弊端，我应该选择哪种比较好。
